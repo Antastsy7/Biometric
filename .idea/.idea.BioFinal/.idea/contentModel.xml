@@ -19,6 +19,8 @@
             </e>
           </e>
         </e>
+        <e p="GestureController.cs" t="Include" />
+        <e p="HandManager.cs" t="Include" />
         <e p="K2Examples" t="Include">
           <e p="_Readme" t="Include">
             <e p="License.txt" t="Include" />
@@ -297,20 +299,6 @@
             <e p="SphereMovement.cs" t="Include" />
           </e>
         </e>
-        <e p="KY_effects" t="Include">
-          <e p="MagicEffectsPackFree" t="Include">
-            <e p="ReadMe.txt" t="Include" />
-          </e>
-          <e p="Script" t="Include">
-            <e p="ConGUI.cs" t="Include" />
-            <e p="Lighting.cs" t="Include" />
-          </e>
-        </e>
-        <e p="Mountain Terrain" t="Include">
-          <e p="Misc" t="Include">
-            <e p="CameraDefault.cs" t="Include" />
-          </e>
-        </e>
         <e p="Plugins" t="Include">
           <e p="Android" t="Include">
             <e p="AndroidManifest.xml" t="Include" />
@@ -320,14 +308,6 @@
           </e>
           <e p="UWP" t="Include">
             <e p="Attribution.txt" t="Include" />
-          </e>
-        </e>
-        <e p="Saiyan" t="Include">
-          <e p="Kamehameha" t="Include">
-            <e p="Shaders" t="Include">
-              <e p="RFX4_DistortionParticlesAdd.shader" t="Include" />
-              <e p="RFX4_Particle.shader" t="Include" />
-            </e>
           </e>
         </e>
         <e p="Standard Assets" t="Include">
